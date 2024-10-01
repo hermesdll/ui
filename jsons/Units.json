@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Marine",
+		"name": "Marine (Melee)",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "World Government",
 		"replaces": "Scout",
 		"movement": 2,
 		"strength": 7,
