@@ -2,7 +2,7 @@
 	{
 		"name": "World Government",
 		"leaderName": "Imu",
-		"adjective": ["alien"],
+		"adjective": ["world government"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
